@@ -1,0 +1,18 @@
+/* put css classses together in 1 folder with their corresponding components */
+/* thisn will make it easier for you to fix your components */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.header {
+  margin: 10px;
+}
+.top-menu a {
+  margin: 0 5px 0 0;
+  text-decoration: none;
+}
+.content {
+  margin: 10px;
+}
